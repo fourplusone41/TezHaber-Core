@@ -1,0 +1,58 @@
+{
+    "newspapers": {
+        "ahaber": {
+            "rss": "https://www.ahaber.com.tr/rss/son24saat.xml",
+            "link": "https://www.ahaber.com.tr/",
+            "articles": [
+                {
+                    "link": "https://www.ahaber.com.tr/spor/2019/11/30/euro-2020de-turkiyenin-rakipleri-belli-oldu",
+                    "published": "2019-11-30T20:03:40",
+                    "title": "EURO 2020'de Türkiye'nin rakipleri belli oldu!",
+                    "text": "EURO 2020'DE TÜRKİYE'NİN RAKİPLERİ BELLİ OLDU! EURO 2020 grupları kura çekimi Romanya'nın başkenti Bükreş'te tamamlandı. Türkiye kura çekimine 3. torbadan katıldı. A Milli Futbol Takımımızın kupadaki rakipleri belli oldu. EURO 2020'de A Grubu'nda mücadele edecek Türkiye'nin rakipleri İtalya, İsviçre ve Galler."
+                },
+                {
+                    "link": "https://www.ahaber.com.tr/ddgsgslukta-4-5-budfsgsgsdgudsdeprdem",
+                    "published": "2019-12-01T00:25:00",
+                    "title": "Arnavutluk'ta 4,5 büyüklüğünde deprem",
+                    "text": "Öğretmen ile öğrenci tekme- tokat kavga etti ingiltere bunu konuşuyor... \"Kahraman\" katil Azerbaycan sonda bir tona yakın uyuşturucu ele geirildi\n\nKouda hava kirlili alarm 31... Okullar bugun de tatil edildi kentten ak ettiler! \"Eyleme kalma Numara'dan ilk Tehlike seviyesi ! Komsuda okullar yine tatil edildi\n\nBlack Friday alışverişi izdihama neden oldu\n\nJohnsonn yerine buz heykeliLibya ile mutabakat ne anlama geliyor?Kudret zersay: KKTC ve Türkiye'yi s Son depremle ilgili yada bir ilk, domates keser gibi'"
+                }
+            ]
+        },
+        "anadoluhaber": {
+            "rss": "https://www.aa.com.tr/tr/rss/default?cat=guncel",
+            "link": "https://www.aa.com.tr/tr",
+            "articles": [
+                {
+                    "link": "https://www.aa.com.tr/tr/dunyadan-spor/a-milli-takim-teknik-direktoru-gunes-a-grubundan-iyi-futbol-ve-sonuclarla-cikmak-istiyoruz/1660260",
+                    "published": "2019-11-30T20:53:40",
+                    "title": "A Milli Takım Teknik Direktörü Güneş: A Grubu'ndan iyi futbol ve sonuçlarla çıkmak istiyoruz",
+                    "text": "A Milli Takım Teknik Direktörü Şenol Güneş, Romanya'nın başkenti Bükreş'te gerçekleştirilen EURO 2020 kura çekiminin ardından basın mensuplarına yaptığı açıklamada, Öncelikle burada olmak çok önemli. Futbol ailesi olarak buradayız. Kura çekiminde birlikte olmak, ülkeyi temsil etmek gurur verici. Aynı şekilde Avrupa'nın iyi takımları, gruplarında başarılı olan takımları burada dedi."
+                },
+                {
+                    "link": "https://www.aa.com.tr/tr/dunysgslukta-4-em",
+                    "published": "2019-10-04T00:25:00",
+                    "title": "Hercai 23. bölüm izle! Hercai 23. bölüm tek parça izle! - ATV.",
+                    "text": "Hercai 23. bölüm tek parça izle! ATV dizisi Hercai 23. bölüm izle! Cuma akşamlarının sevilen dizisinde heyecan hız kesmiyor. Dizide bu hafta; mektubun ortaya çıkardığı sırların ardından, babasının masumiyetini ispatlayabileceğini fark eden Reyyan, Miran'la birlikte gerçeklerin peşine düştü. Bugüne kadar herşeyin bir yalan üzerine kurulduğunu öğrenen Reyyan sevdiği adam olan Miran'a gerçek."
+                }
+            ]
+        },
+        "cnnturk": {
+            "rss": "https://www.cnnturk.com/feed/rss/all/news",
+            "link": "https://www.cnnturk.com/",
+            "articles": [
+                {
+                    "link": "https://www.cnnturk.com/spor/futbol/euro-2020-kura-cekimi-milli-takimimizin-rakipleri-belli-oluyor",
+                    "published": "2019-12-01T00:07:00",
+                    "title": "Türkiye'nin EURO 2020'deki rakipleri belli oldu!",
+                    "text": "Avrupa Futbol Şampiyonası EURO 2020 kura çekimi Romanya'nın başkenti Bükreş'te gerçekleştirildi. A Grubu'nda yer alan Milli Takımımız, İtalya, İsviçre ve Galler'le karşılaşacak. Ay Yıldızlılarımız 12 Haziran'da Roma'da İtalya ile turnuvanın açılış maçını oynayacak. Grubun ikinci ve üçüncü maçları ise Bakü'de olacak."
+                },
+                {
+                    "link": "https://www.cnnturk.com/daskerım",
+                    "published": "2019-11-01T00:29:00",
+                    "title": "jandarma  büyüklüğünde ",
+                    "text": "Jandarma uzman erbaş alımı ne zaman yapılacak? Jandarma uzman erbaş 4. grup çağrısı ne zaman başlayacak? Jandarma uzman erbaş alımı meraklı bekleyiş sürüyor. Yıl içerisinde yapılan 2. ve 3. grup alımlarında çağrılmayan adaylarda gözler 4. grup çağrılarına çevrildi. Jandarma uzman erbaş başvurusu yapmak isteyen kişiler, Jandarma ve Sahil Güvenlik Akademisi Başkanlığı’nın duyurularını takip ediyor. İşte, jandarma personel alımına ilişkin son haberler."
+                }
+            ]
+        }
+    }
+}
